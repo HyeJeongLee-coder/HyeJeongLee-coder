@@ -1,4 +1,11 @@
 ## Hi there 👋
+# Introduction
+  안녕하십니까!
+  저는 현재 영남대학교 2학년입니다.
+  저는 소프트웨어융합을 전공하고 있습니다.
+  판타지 장르의 웹툰 혹은 소설을 보는 것이 저의 취미입니다.
+  저는 지금 파이선과 자바를 배우고 있습니다.
+  저는 집에서 쉬는 것을 가장 하고 싶습니다.
 
 <!--
 **HyeJeongLee-coder/HyeJeongLee-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
